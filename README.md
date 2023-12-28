@@ -9,6 +9,7 @@
 * Y dentro de él instalamos los requerimientos: pip install -r .\requirements.txt
 * Nos movemos a la carpeta src: cd src
 * Corremos python: python
+
 El archivo _AA1_TP_Lopez_Pistelli_ contiene el proyecto completo, está en formato .ipynb, por lo tanto se puede ir corriendo celda a celda.
 ---
 Para correr la app de streamlit:
