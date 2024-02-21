@@ -9,6 +9,17 @@ Se realizaron modelos de clasificación para determinar si lloverá o no al día
 Por último, se utilizó streamlit para crear una aplicación con la que ejecutar los modelos seleccionados y comprobar su rendimiento. 
 
 
+---
+
+This project is based on the prediction of rainfall in Australia from a dataset containing climatic data for the last ten years.
+
+For the development of the project we used the scikit-learn library for data pre-processing, model implementation and metric evaluation and TensorFlow for neural network training.
+
+There were performed classification models to determine whether or not it will rain the next day and regression models to determine the amount of rainfall.
+
+Finally, streamlit was used to build an app to run the selected models to test their performance.
+
+
 ### Instrucciones para correr el proyecto:
 * Descargar el proyecto desde <> Code -> Download ZIP
 * Extraerlo en su PC (la carpeta se llamará AA1-main por default)
