@@ -1,4 +1,14 @@
 ## Predicción de lluvia en Australia
+
+Este proyecto se basa en la predicción de lluvia en Australia a partir de un conjunto de datos que contiene datos climáticos de los últimos diez años.
+
+Para el desarrollo del proyecto se utilizó la librería scikit-learn para el preprocesamiento de datos, implementación de modelos y evaluación de métricas y TensorFlow para el entrenamiento de redes neuronales.
+
+Se realizaron modelos de clasificación para determinar si lloverá o no al día siguiente y modelos de regresión para determinar la cantidad de precipitaciones.
+
+Por último, se utilizó streamlit para crear una aplicación con la que ejecutar los modelos seleccionados y comprobar su rendimiento. 
+
+
 ### Instrucciones para correr el proyecto:
 * Descargar el proyecto desde <> Code -> Download ZIP
 * Extraerlo en su PC (la carpeta se llamará AA1-main por default)
